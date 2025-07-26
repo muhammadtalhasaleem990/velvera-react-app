@@ -1,0 +1,39 @@
+.footer {
+  background-color: #f2f2f2;
+  padding: 30px 20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer-brand h2 {
+  font-size: 28px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.footer-brand p {
+  margin-bottom: 20px;
+  font-style: italic;
+  color: #555;
+}
+
+.social-icons {
+  margin-bottom: 15px;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 24px;
+  margin: 0 12px;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #e63946; /* Candy red shade on hover */
+}
+
+.footer p {
+  font-size: 14px;
+  color: #777;
+}
+

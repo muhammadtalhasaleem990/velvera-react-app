@@ -1,0 +1,68 @@
+.perfume-section {
+  padding: 60px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.perfume-section h2 {
+  font-size: 32px;
+  margin-bottom: 40px;
+}
+
+.perfume-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.perfume-card {
+  background: #f9f9f9;
+  border-radius: 15px;
+  padding: 20px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.perfume-card:hover {
+  transform: translateY(-5px);
+}
+
+.perfume-card img {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.perfume-card h3 {
+  margin: 15px 0 10px;
+  font-size: 22px;
+}
+
+.perfume-card p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: #333;
+}
+
+.buy-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #25D366;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.wa-icon {
+  margin-right: 6px;
+}
