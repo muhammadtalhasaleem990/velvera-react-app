@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/velvera-react-app/static/css/main.715bc96f.css",
+    "main.css": "/velvera-react-app/static/css/main.f8030fa2.css",
     "main.js": "/velvera-react-app/static/js/main.9425bad3.js",
     "static/media/hero-bg.jpg": "/velvera-react-app/static/media/hero-bg.cd021b949894a47a03b3.jpg",
     "static/media/logo.png": "/velvera-react-app/static/media/logo.4e1bc7d38110e19e4687.png",
@@ -8,11 +8,11 @@
     "static/media/oud.jpg": "/velvera-react-app/static/media/oud.0f3a5a9b83e5db345ca6.jpg",
     "static/media/noir.jpg": "/velvera-react-app/static/media/noir.b3ef3b5b803f731f4c14.jpg",
     "index.html": "/velvera-react-app/index.html",
-    "main.715bc96f.css.map": "/velvera-react-app/static/css/main.715bc96f.css.map",
+    "main.f8030fa2.css.map": "/velvera-react-app/static/css/main.f8030fa2.css.map",
     "main.9425bad3.js.map": "/velvera-react-app/static/js/main.9425bad3.js.map"
   },
   "entrypoints": [
-    "static/css/main.715bc96f.css",
+    "static/css/main.f8030fa2.css",
     "static/js/main.9425bad3.js"
   ]
 }
